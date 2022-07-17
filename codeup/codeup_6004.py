@@ -6,5 +6,11 @@
 
 #'Hello'
 
+#Input
+#입력없음
+
+#Output
+#'Hello'
+
 #풀이
 print("'Hello'")

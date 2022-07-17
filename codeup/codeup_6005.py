@@ -6,5 +6,11 @@
 #"Hello World"
 #(단, 큰따옴표도 함께 출력한다.)
 
+#Input
+#입력없음
+
+#Output
+#"Hello World"
+
 #풀이
 print('"Hello World"')

@@ -5,5 +5,11 @@
 
 #위 코드를 정확히 그대로 출력하시오.(공백문자 주의)
 
+#Input
+#입력없음
+
+#Output
+#print("Hello\nWorld")
+
 #풀이
 print('print("Hello\\nWorld")')

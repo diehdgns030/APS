@@ -6,6 +6,13 @@
 #World
 #(두 줄에 걸쳐 줄을 바꿔 출력)
 
+#Input
+#입력없음
+
+#Output
+#Hello
+#World
+
 #풀이
 print('Hello')
 print('World')

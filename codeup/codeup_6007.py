@@ -8,5 +8,11 @@
 #"C:\Download\'hello'.py"
 #(단, 따옴표도 함께 출력한다.)
 
+#Input
+#입력없음
+
+#Output
+#"C:\Download\'hello'.py"
+
 #풀이
 print('''"C:\Download\\'hello'.py"''')
