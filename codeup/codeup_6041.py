@@ -8,6 +8,6 @@
 #1
 
 #풀이
-a, b = input().split(' ')
+a, b = input().split()
 remainde = int(a) % int(b)
 print(remainde)

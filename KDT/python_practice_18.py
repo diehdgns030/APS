@@ -10,9 +10,9 @@
 #n 2
 
 #풀이
-word = input()#banana
-result = {}#임의의 딕셔너리 생성
-for i in word:#i에 banana를 하나씩 순회 대입
+word = input()
+result = {}
+for i in word:
     if not i in result:
         result[i] = 1 
     else:

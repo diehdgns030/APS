@@ -8,6 +8,6 @@
 #lovelovelove
 
 #풀이
-a, b = input().split(' ')
+a, b = input().split()
 result = a * int(b)
 print(result)

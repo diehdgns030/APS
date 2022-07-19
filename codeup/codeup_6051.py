@@ -9,7 +9,7 @@
 #True
 
 #풀이
-a, b = map(int, input().split(' '))
+a, b = map(int, input().split())
 if a != b:
     print(True)
 else:

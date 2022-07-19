@@ -14,7 +14,7 @@
 #3.33
 
 #풀이
-a, b = map(int, input().split(' '))
+a, b = map(int, input().split())
 print(a + b)
 print(a - b)
 print(a * b)

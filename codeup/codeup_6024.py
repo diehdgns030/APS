@@ -9,5 +9,5 @@
 #helloworld
 
 #풀이
-s = input().split(' ')
+s = input().split()
 print(s[0], s[1], sep='')

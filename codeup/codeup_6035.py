@@ -8,6 +8,6 @@
 #1.0
 
 #풀이
-a, b = input().split(' ')
+a, b = input().split()
 result = float(a) * float(b)
 print(result)

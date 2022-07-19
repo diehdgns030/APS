@@ -8,7 +8,7 @@
 #6 2.00
 
 #풀이
-a, b, c = map(int, input().split(' '))
+a, b, c = map(int, input().split())
 sum = a + b + c
 average = sum / 3
 print(sum, format(average,'.2f'))

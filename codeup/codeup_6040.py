@@ -8,6 +8,6 @@
 #3
 
 #풀이
-a, b = input().split(' ')
+a, b = input().split()
 share = int(a) // int(b)
 print(share)

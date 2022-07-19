@@ -9,6 +9,6 @@
 #3.333
 
 #풀이
-f1, f2 = map(float, input().split(' '))
+f1, f2 = map(float, input().split())
 result = f1 / f2
 print(format(result, '.3f'))
