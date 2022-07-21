@@ -11,6 +11,7 @@
 # 30
 
 # 풀이
+#sum 에는 int 형 혹은 str 형이 와야한다.
 numbers = input().split()
 
 sum_numbers = 0
