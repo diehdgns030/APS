@@ -29,7 +29,7 @@ for i in range(1, N+1):
         if int(str(i)[j]) in list_369:
             cnt_369 += 1
         else:
-            cnt_369 += 0
+            continue
     if cnt_369 == 0:
         list_N.append(i)
     else:
