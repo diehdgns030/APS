@@ -19,4 +19,4 @@ for i in range(1, t+1):
     if (a, b) in range(10001):
         print(f'#{i} {a//b} {a%b}')
     else:
-        print('1이상 10000이하의 정수를 입력해주세요')
+        print('1이상 10,000이하의 정수를 입력해주세요.')

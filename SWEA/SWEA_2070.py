@@ -23,4 +23,4 @@ for i in range(1, t+1):
         else:
             print(f'#{i} =')
     else:
-        print('0 이상 10000 이하의 정수를 입력해주세요.')
+        print('0 이상 10,000 이하의 정수를 입력해주세요.')
